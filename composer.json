@@ -13,7 +13,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/rootasuser/dstress-php-framework"
+            "url": "https://github.com/rootasuser/dStressPHPFramework"
         }
     ],
     "minimum-stability": "dev",
