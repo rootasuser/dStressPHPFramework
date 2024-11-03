@@ -1,0 +1,13 @@
+{
+    "name": "dstress/dstress-framework",
+    "description": "A lightweight PHP framework.",
+    "autoload": {
+        "psr-4": {
+            "dStress\\": "src/"
+        }
+    },
+    "bin": [
+        "bin/create-project.php"
+    ],
+    "require": {}
+}
