@@ -9,7 +9,9 @@
     "bin": [
         "bin/create-project.php"
     ],
-    "require": {},
+    "require": {
+         "rootasuser/dStressPHPFramework": "dev-main"
+    },
     "repositories": [
         {
             "type": "vcs",
