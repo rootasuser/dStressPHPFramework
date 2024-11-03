@@ -1,5 +1,5 @@
 {
-    "name": "dstress/dstress-framework",
+    "name": "rootasuser/dStressPHPFramework",
     "description": "A lightweight PHP framework.",
     "autoload": {
         "psr-4": {
