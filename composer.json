@@ -9,5 +9,13 @@
     "bin": [
         "bin/create-project.php"
     ],
-    "require": {}
+    "require": {},
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/rootasuser/dstress-php-framework"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }

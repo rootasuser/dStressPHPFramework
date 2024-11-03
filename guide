@@ -1,4 +1,10 @@
-composer global require dstress/dstress-framework
+# run this command 
+composer global require dstress/dstress-framework:dev-main
 
 
+# create your project
 create-project my-new-project
+
+
+# if cache causing issue prompt this
+    composer clear-cache
